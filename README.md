@@ -7,7 +7,7 @@ A Fullstack Mobile/Web Developer.
 I've been developing for almost three years now, starting my journey with Flutter and then moving to the world of web applications. Currently diving into Web3 with the Near blockchain.
 
 * 🌍  I'm based in Istanbul
-* 🚀  I'm currently working on [DecentraJobs](http://https://decentrajobs.aimensahnoun.com)
+* 🚀  I'm currently working on [DecentraJobs](https://decentrajobs.aimensahnoun.com)
 * 🧠  I'm learning Solidity and Ethereum development , as well as Unity and Game Dev on the side.
 
 <a href="https://www.twitter.com/AimenSahnoun" target="_blank" rel="noreferrer"><img
