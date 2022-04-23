@@ -8,7 +8,7 @@ I've been developing for almost three years now, starting my journey with Flutte
 
 * 🌍  I'm based in Istanbul
 * 🚀  I'm currently working on [DecentraJobs](http://https://decentrajobs.aimensahnoun.com)
-* 🧠  I'm learning Solidity and Ethereum development
+* 🧠  I'm learning Solidity and Ethereum development , as well as Unity and Game Dev on the side.
 
 <a href="https://www.twitter.com/AimenSahnoun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AimenSahnoun?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
