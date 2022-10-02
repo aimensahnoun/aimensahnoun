@@ -8,7 +8,7 @@ I've been developing for almost three years now, starting my journey with Flutte
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [info@aimensahnoun.com](mailto:info@aimensahnoun.com)
-* 🚀  I'm currently working on [DecentraJobs](http://decentrajobs.aimensahnoun.com) and [CopyCat](https://github.com/AR-AI-copy-paste/mobile_application)
+* 🚀  I'm currently working on [Dystro](https://www.dystro.app)
 * 🧠  I'm learning Solidity and Ethereum development , as well as Unity and Game Dev on the side.
 
 <a href="https://www.twitter.com/AimenSahnoun" target="_blank" rel="noreferrer"><img
