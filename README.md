@@ -5,7 +5,7 @@ A Fullstack Web/Mobile Developer.
 ---------------------------------
 
 # 💫 About Me:
-I've been developing for almost three years now, starting my journey with Flutter and then moving to web applications. I am currently diving into Web3 with the Near blockchain and Solidity.<br><br>🌍  I'm based in Istanbul<br>🖥️  See my portfolio at aimensahnoun.com<br>✉️  You can contact me at info@aimensahnoun.com<br>🚀  I'm currently working on Dystro and AimBridge.<br>🧠  I'm learning Solidity and Ethereum development and Unity and Game Dev on the side.
+I've been developing for almost three years now, starting my journey with Flutter and then moving to web applications. I am currently diving into Web3 with the Near blockchain and Solidity.<br><br>🌍  I'm based in Istanbul<br>🖥️  See my portfolio at aimensahnoun.com<br>✉️  You can contact me at info@aimensahnoun.com<br>🚀  I'm currently working on Dystro and Lucra.<br>🧠  I'm learning Solidity and Ethereum development and Unity and Game Dev on the side.
 
 
 ## 🌐 Socials:
