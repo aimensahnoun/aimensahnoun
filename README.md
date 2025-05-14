@@ -5,7 +5,7 @@ A Fullstack Web/Mobile Developer.
 ---------------------------------
 
 # 💫 About Me:
-I've been developing for four years now, starting my journey with Flutter and then moving to web applications. I am currently diving into Web3 with the Near blockchain and Solidity.<br><br>🌍  I'm based in Istanbul<br>🖥️  See my portfolio at aimensahnoun.com<br>✉️  You can contact me at aimen@aviatolabs.xyz<br>🚀  I'm currently working on Lucra , Habitat and many more things..<br>🧠  I'm learning Go and random things along the way.
+I've been developing for four years now, starting my journey with Flutter and then moving to web applications. I am currently diving into Web3 with the Near blockchain and Solidity.<br><br>🌍  I'm based in United Arab Emirates<br>🖥️  See my portfolio at aimensahnoun.com<br>✉️  You can contact me at aimen@aviatolabs.xyz<br>🚀  I'm currently working on Lucra , Hushkey and many more things..<br>🧠  I'm learning Go and random things along the way.
 
 
 ## 🌐 Socials:
